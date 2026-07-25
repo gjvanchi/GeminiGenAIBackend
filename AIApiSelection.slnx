@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AIApiSelection.csproj" />
+  <Project Path="AIApiSelection.Tests/AIApiSelection.Tests.csproj" />
+</Solution>
